@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "E:\\KTPM-CTK44\\CalculatorTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{288261A9-E7EF-45CA-9EA2-6C9013CC0775}|XUnitTestCalLib\\XUnitTestCalLib.csproj|e:\\ktpm-ctk44\\calculatortest\\xunittestcallib\\unittestoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{288261A9-E7EF-45CA-9EA2-6C9013CC0775}|XUnitTestCalLib\\XUnitTestCalLib.csproj|solutionrelative:xunittestcallib\\unittestoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11C861DC-6728-498D-9607-F557E7B23AA2}|CalculatorTest\\CalculatorTest.csproj|e:\\ktpm-ctk44\\calculatortest\\calculatortest\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C861DC-6728-498D-9607-F557E7B23AA2}|CalculatorTest\\CalculatorTest.csproj|solutionrelative:calculatortest\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{288261A9-E7EF-45CA-9EA2-6C9013CC0775}|XUnitTestCalLib\\XUnitTestCalLib.csproj|e:\\ktpm-ctk44\\calculatortest\\xunittestcallib\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{288261A9-E7EF-45CA-9EA2-6C9013CC0775}|XUnitTestCalLib\\XUnitTestCalLib.csproj|solutionrelative:xunittestcallib\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11C861DC-6728-498D-9607-F557E7B23AA2}|CalculatorTest\\CalculatorTest.csproj|e:\\ktpm-ctk44\\calculatortest\\calculatortest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C861DC-6728-498D-9607-F557E7B23AA2}|CalculatorTest\\CalculatorTest.csproj|solutionrelative:calculatortest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{757B885B-B1CD-4877-BE2D-30FBC5051FE8}|UnitTestCalLib\\UnitTestCalLib.csproj|e:\\ktpm-ctk44\\calculatortest\\unittestcallib\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{757B885B-B1CD-4877-BE2D-30FBC5051FE8}|UnitTestCalLib\\UnitTestCalLib.csproj|solutionrelative:unittestcallib\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11C861DC-6728-498D-9607-F557E7B23AA2}|CalculatorTest\\CalculatorTest.csproj|e:\\ktpm-ctk44\\calculatortest\\calculatortest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11C861DC-6728-498D-9607-F557E7B23AA2}|CalculatorTest\\CalculatorTest.csproj|solutionrelative:calculatortest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB73C44F-F8C7-4659-A1CD-4B9766134FE7}|CalLib\\CalLib.csproj|e:\\ktpm-ctk44\\calculatortest\\callib\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB73C44F-F8C7-4659-A1CD-4B9766134FE7}|CalLib\\CalLib.csproj|solutionrelative:callib\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,40 +39,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UnitTestOperations.cs",
-              "DocumentMoniker": "E:\\KTPM-CTK44\\CalculatorTest\\XUnitTestCalLib\\UnitTestOperations.cs",
-              "RelativeDocumentMoniker": "XUnitTestCalLib\\UnitTestOperations.cs",
-              "ToolTip": "E:\\KTPM-CTK44\\CalculatorTest\\XUnitTestCalLib\\UnitTestOperations.cs",
-              "RelativeToolTip": "XUnitTestCalLib\\UnitTestOperations.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\KTPM-CTK44\\CalculatorTest\\CalculatorTest\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CalculatorTest\\Form1.Designer.cs",
+              "ToolTip": "E:\\KTPM-CTK44\\CalculatorTest\\CalculatorTest\\Form1.Designer.cs",
+              "RelativeToolTip": "CalculatorTest\\Form1.Designer.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAowJEAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T01:40:32.717Z",
+              "WhenOpened": "2025-06-27T08:59:38.08Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TestData.cs",
-              "DocumentMoniker": "E:\\KTPM-CTK44\\CalculatorTest\\XUnitTestCalLib\\TestData.cs",
-              "RelativeDocumentMoniker": "XUnitTestCalLib\\TestData.cs",
-              "ToolTip": "E:\\KTPM-CTK44\\CalculatorTest\\XUnitTestCalLib\\TestData.cs",
-              "RelativeToolTip": "XUnitTestCalLib\\TestData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\KTPM-CTK44\\CalculatorTest\\CalculatorTest\\Form1.cs",
+              "RelativeDocumentMoniker": "CalculatorTest\\Form1.cs",
+              "ToolTip": "E:\\KTPM-CTK44\\CalculatorTest\\CalculatorTest\\Form1.cs",
+              "RelativeToolTip": "CalculatorTest\\Form1.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwD8AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T01:39:56.264Z",
+              "WhenOpened": "2025-06-27T08:56:04.376Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TestData.cs",
-              "DocumentMoniker": "E:\\KTPM-CTK44\\CalculatorTest\\UnitTestCalLib\\TestData.cs",
-              "RelativeDocumentMoniker": "UnitTestCalLib\\TestData.cs",
-              "ToolTip": "E:\\KTPM-CTK44\\CalculatorTest\\UnitTestCalLib\\TestData.cs",
-              "RelativeToolTip": "UnitTestCalLib\\TestData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\KTPM-CTK44\\CalculatorTest\\CalculatorTest\\Form1.cs",
+              "RelativeDocumentMoniker": "CalculatorTest\\Form1.cs",
+              "ToolTip": "E:\\KTPM-CTK44\\CalculatorTest\\CalculatorTest\\Form1.cs [Design]",
+              "RelativeToolTip": "CalculatorTest\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T01:39:30.362Z",
+              "WhenOpened": "2025-06-27T04:10:10.991Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Operations.cs",
+              "DocumentMoniker": "E:\\KTPM-CTK44\\CalculatorTest\\CalLib\\Operations.cs",
+              "RelativeDocumentMoniker": "CalLib\\Operations.cs",
+              "ToolTip": "E:\\KTPM-CTK44\\CalculatorTest\\CalLib\\Operations.cs",
+              "RelativeToolTip": "CalLib\\Operations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:57:21.737Z",
               "EditorCaption": ""
             }
           ]

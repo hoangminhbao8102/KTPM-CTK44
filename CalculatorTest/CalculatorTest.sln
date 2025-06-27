@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestCalLib", "UnitTestC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestCalLib", "XUnitTestCalLib\XUnitTestCalLib.csproj", "{288261A9-E7EF-45CA-9EA2-6C9013CC0775}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTestCalLib", "NUnitTestCalLib\NUnitTestCalLib.csproj", "{49275480-8F0A-4090-A157-D9D3D3DBEE95}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{288261A9-E7EF-45CA-9EA2-6C9013CC0775}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{288261A9-E7EF-45CA-9EA2-6C9013CC0775}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{288261A9-E7EF-45CA-9EA2-6C9013CC0775}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49275480-8F0A-4090-A157-D9D3D3DBEE95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49275480-8F0A-4090-A157-D9D3D3DBEE95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49275480-8F0A-4090-A157-D9D3D3DBEE95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49275480-8F0A-4090-A157-D9D3D3DBEE95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

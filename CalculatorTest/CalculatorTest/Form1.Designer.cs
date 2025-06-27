@@ -66,6 +66,7 @@
             btnCancel.TabIndex = 1;
             btnCancel.Text = "C";
             btnCancel.UseVisualStyleBackColor = true;
+            btnCancel.Click += btnCancel_Click;
             // 
             // btnSeven
             // 
@@ -76,6 +77,7 @@
             btnSeven.TabIndex = 2;
             btnSeven.Text = "7";
             btnSeven.UseVisualStyleBackColor = true;
+            btnSeven.Click += btnNumber_Click;
             // 
             // btnFour
             // 
@@ -86,6 +88,7 @@
             btnFour.TabIndex = 3;
             btnFour.Text = "4";
             btnFour.UseVisualStyleBackColor = true;
+            btnFour.Click += btnNumber_Click;
             // 
             // btnOne
             // 
@@ -96,6 +99,7 @@
             btnOne.TabIndex = 4;
             btnOne.Text = "1";
             btnOne.UseVisualStyleBackColor = true;
+            btnOne.Click += btnNumber_Click;
             // 
             // btnZero
             // 
@@ -106,6 +110,7 @@
             btnZero.TabIndex = 5;
             btnZero.Text = "0";
             btnZero.UseVisualStyleBackColor = true;
+            btnZero.Click += btnNumber_Click;
             // 
             // btnEight
             // 
@@ -116,6 +121,7 @@
             btnEight.TabIndex = 6;
             btnEight.Text = "8";
             btnEight.UseVisualStyleBackColor = true;
+            btnEight.Click += btnNumber_Click;
             // 
             // btnNine
             // 
@@ -126,6 +132,7 @@
             btnNine.TabIndex = 7;
             btnNine.Text = "9";
             btnNine.UseVisualStyleBackColor = true;
+            btnNine.Click += btnNumber_Click;
             // 
             // btnPlus
             // 
@@ -136,6 +143,7 @@
             btnPlus.TabIndex = 8;
             btnPlus.Text = "+";
             btnPlus.UseVisualStyleBackColor = true;
+            btnPlus.Click += btnOperator_Click;
             // 
             // btnMinus
             // 
@@ -146,6 +154,7 @@
             btnMinus.TabIndex = 11;
             btnMinus.Text = "-";
             btnMinus.UseVisualStyleBackColor = true;
+            btnMinus.Click += btnOperator_Click;
             // 
             // btnSix
             // 
@@ -156,6 +165,7 @@
             btnSix.TabIndex = 10;
             btnSix.Text = "6";
             btnSix.UseVisualStyleBackColor = true;
+            btnSix.Click += btnNumber_Click;
             // 
             // btnFive
             // 
@@ -166,6 +176,7 @@
             btnFive.TabIndex = 9;
             btnFive.Text = "5";
             btnFive.UseVisualStyleBackColor = true;
+            btnFive.Click += btnNumber_Click;
             // 
             // btnMul
             // 
@@ -176,6 +187,7 @@
             btnMul.TabIndex = 14;
             btnMul.Text = "*";
             btnMul.UseVisualStyleBackColor = true;
+            btnMul.Click += btnOperator_Click;
             // 
             // btnThree
             // 
@@ -186,6 +198,7 @@
             btnThree.TabIndex = 13;
             btnThree.Text = "3";
             btnThree.UseVisualStyleBackColor = true;
+            btnThree.Click += btnNumber_Click;
             // 
             // btnTwo
             // 
@@ -196,6 +209,7 @@
             btnTwo.TabIndex = 12;
             btnTwo.Text = "2";
             btnTwo.UseVisualStyleBackColor = true;
+            btnTwo.Click += btnNumber_Click;
             // 
             // btnDiv
             // 
@@ -206,6 +220,7 @@
             btnDiv.TabIndex = 17;
             btnDiv.Text = ":";
             btnDiv.UseVisualStyleBackColor = true;
+            btnDiv.Click += btnOperator_Click;
             // 
             // btnEqual
             // 
@@ -216,6 +231,7 @@
             btnEqual.TabIndex = 16;
             btnEqual.Text = "=";
             btnEqual.UseVisualStyleBackColor = true;
+            btnEqual.Click += btnEqual_Click;
             // 
             // btnDot
             // 
@@ -226,6 +242,7 @@
             btnDot.TabIndex = 15;
             btnDot.Text = ".";
             btnDot.UseVisualStyleBackColor = true;
+            btnDot.Click += btnNumber_Click;
             // 
             // Form1
             // 
