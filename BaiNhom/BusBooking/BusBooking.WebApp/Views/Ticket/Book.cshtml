@@ -1,0 +1,23 @@
+﻿@model BusBooking.Core.Entities.Ticket
+@{
+    ViewBag.Title = "Đặt vé";
+    var schedule = ViewBag.Schedule as BusBooking.Core.Entities.Schedule;
+}
+
+<h2>Đặt vé</h2>
+
+<div class="mb-3">
+    <p><strong>Tuyến:</strong> @schedule.Route.Departure - @schedule.Route.Destination</p>
+    <p><strong>Ngày khởi hành:</strong> @schedule.DepartureDate.ToShortDateString()</p>
+    <p><strong>Giờ khởi hành:</strong> @schedule.DepartureTime</p>
+    <p><strong>Giá vé:</strong> @schedule.TicketPrice.ToString("N0") VND</p>
+</div>
+
+<form method="post" class="col-md-4">
+    <input type="hidden" name="scheduleId" value="@schedule.Id" />
+    <div class="mb-3">
+        <label class="form-label">Số lượng vé</label>
+        <input type="number" name="soLuong" min="1" class="form-control" required />
+    </div>
+    <button type="submit" class="btn btn-success">Đặt vé</button>
+</form>

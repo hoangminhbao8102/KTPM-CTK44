@@ -1,0 +1,40 @@
+﻿@model IEnumerable<BusBooking.Core.Entities.Ticket>
+@{
+    ViewBag.Title = "Lịch sử đặt vé";
+}
+
+<h2>Lịch sử đặt vé</h2>
+
+<table class="table table-bordered table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th>Tuyến</th>
+            <th>Ngày đi</th>
+            <th>Số lượng</th>
+            <th>Trạng thái</th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var ticket in Model)
+        {
+            <tr>
+                <td>@ticket.Schedule.Route.Departure - @ticket.Schedule.Route.Destination</td>
+                <td>@ticket.Schedule.DepartureDate.ToShortDateString()</td>
+                <td>@ticket.Quantity</td>
+                <td>@ticket.Status</td>
+                <td>
+                    @if (ticket.Status == "Đã đặt")
+                    {
+                        <a class="btn btn-sm btn-danger" href="@Url.Action("Cancel", "Ticket", new { id = ticket.Id })">Hủy</a>
+                        <a class="btn btn-sm btn-primary" href="@Url.Action("Pay", "Payment", new { ticketId = ticket.Id })">Thanh toán</a>
+                    }
+                    else
+                    {
+                        <span class="text-muted">---</span>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

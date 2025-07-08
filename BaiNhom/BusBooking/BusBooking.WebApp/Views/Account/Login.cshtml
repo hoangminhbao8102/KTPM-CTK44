@@ -1,0 +1,27 @@
+﻿@{
+    ViewBag.Title = "Đăng nhập";
+}
+
+<h2>Đăng nhập</h2>
+
+@if (ViewBag.Error != null)
+{
+    <div class="alert alert-danger">@ViewBag.Error</div>
+}
+
+<form method="post" class="col-md-6">
+    <div class="mb-3">
+        <label class="form-label">Email</label>
+        <input type="email" name="email" class="form-control" required />
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Mật khẩu</label>
+        <input type="password" name="password" class="form-control" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Đăng nhập</button>
+    <a href="@Url.Action("Register", "Account")" class="btn btn-link">Đăng ký</a>
+</form>
+
+<p>
+    Chưa có tài khoản? <a href="@Url.Action("Register", "Account")">Đăng ký</a>
+</p>

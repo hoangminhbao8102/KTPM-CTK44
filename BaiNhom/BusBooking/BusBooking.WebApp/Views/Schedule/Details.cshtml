@@ -1,0 +1,19 @@
+﻿@model BusBooking.Core.Entities.Schedule
+@{
+    ViewBag.Title = "Chi tiết chuyến xe";
+}
+
+<h2>Chi tiết chuyến xe</h2>
+
+<div class="card">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Route.Departure - @Model.Route.Destination</h5>
+        <p class="card-text"><strong>Ngày khởi hành:</strong> @Model.DepartureDate.ToShortDateString()</p>
+        <p class="card-text"><strong>Giờ khởi hành:</strong> @Model.DepartureTime</p>
+        <p class="card-text"><strong>Giá vé:</strong> @Model.TicketPrice.ToString("N0") VND</p>
+        <p class="card-text"><strong>Số ghế còn:</strong> @Model.SeatCount</p>
+
+        <a class="btn btn-success" href="@Url.Action("Book", "Ticket", new { scheduleId = Model.Id })">Đặt vé ngay</a>
+        <a class="btn btn-secondary" href="@Url.Action("Search", "Schedule")">Quay lại</a>
+    </div>
+</div>

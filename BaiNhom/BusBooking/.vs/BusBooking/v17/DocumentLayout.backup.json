@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\KTPM-CTK44\\BaiNhom\\BusBooking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F8F4E7-0123-4614-9307-EDD020A68FDE}|BusBooking.WebApp\\BusBooking.WebApp.csproj|e:\\ktpm-ctk44\\bainhom\\busbooking\\busbooking.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F8F4E7-0123-4614-9307-EDD020A68FDE}|BusBooking.WebApp\\BusBooking.WebApp.csproj|solutionrelative:busbooking.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F8F4E7-0123-4614-9307-EDD020A68FDE}|BusBooking.WebApp\\BusBooking.WebApp.csproj|e:\\ktpm-ctk44\\bainhom\\busbooking\\busbooking.webapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6F8F4E7-0123-4614-9307-EDD020A68FDE}|BusBooking.WebApp\\BusBooking.WebApp.csproj|solutionrelative:busbooking.webapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F8F4E7-0123-4614-9307-EDD020A68FDE}|BusBooking.WebApp\\BusBooking.WebApp.csproj|e:\\ktpm-ctk44\\bainhom\\busbooking\\busbooking.webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F8F4E7-0123-4614-9307-EDD020A68FDE}|BusBooking.WebApp\\BusBooking.WebApp.csproj|solutionrelative:busbooking.webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F8F4E7-0123-4614-9307-EDD020A68FDE}|BusBooking.WebApp\\BusBooking.WebApp.csproj|e:\\ktpm-ctk44\\bainhom\\busbooking\\busbooking.webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6F8F4E7-0123-4614-9307-EDD020A68FDE}|BusBooking.WebApp\\BusBooking.WebApp.csproj|solutionrelative:busbooking.webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F8F4E7-0123-4614-9307-EDD020A68FDE}|BusBooking.WebApp\\BusBooking.WebApp.csproj|e:\\ktpm-ctk44\\bainhom\\busbooking\\busbooking.webapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6F8F4E7-0123-4614-9307-EDD020A68FDE}|BusBooking.WebApp\\BusBooking.WebApp.csproj|solutionrelative:busbooking.webapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F0E2EB-AC58-4E19-8DC6-076AFB882D36}|BusBooking.Tests\\BusBooking.Tests.csproj|e:\\ktpm-ctk44\\bainhom\\busbooking\\busbooking.tests\\schedulecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F0E2EB-AC58-4E19-8DC6-076AFB882D36}|BusBooking.Tests\\BusBooking.Tests.csproj|solutionrelative:busbooking.tests\\schedulecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F0E2EB-AC58-4E19-8DC6-076AFB882D36}|BusBooking.Tests\\BusBooking.Tests.csproj|e:\\ktpm-ctk44\\bainhom\\busbooking\\busbooking.tests\\paymentcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F0E2EB-AC58-4E19-8DC6-076AFB882D36}|BusBooking.Tests\\BusBooking.Tests.csproj|solutionrelative:busbooking.tests\\paymentcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F0E2EB-AC58-4E19-8DC6-076AFB882D36}|BusBooking.Tests\\BusBooking.Tests.csproj|e:\\ktpm-ctk44\\bainhom\\busbooking\\busbooking.tests\\accountcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F0E2EB-AC58-4E19-8DC6-076AFB882D36}|BusBooking.Tests\\BusBooking.Tests.csproj|solutionrelative:busbooking.tests\\accountcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE6E276-9185-473D-9727-90FE16FDEF6F}|BusBooking.Services\\BusBooking.Services.csproj|e:\\ktpm-ctk44\\bainhom\\busbooking\\busbooking.services\\fake\\faketicketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE6E276-9185-473D-9727-90FE16FDEF6F}|BusBooking.Services\\BusBooking.Services.csproj|solutionrelative:busbooking.services\\fake\\faketicketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\KTPM-CTK44\\BaiNhom\\BusBooking\\BusBooking.WebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BusBooking.WebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\KTPM-CTK44\\BaiNhom\\BusBooking\\BusBooking.WebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BusBooking.WebApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T14:51:33.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\KTPM-CTK44\\BaiNhom\\BusBooking\\BusBooking.WebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BusBooking.WebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\KTPM-CTK44\\BaiNhom\\BusBooking\\BusBooking.WebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BusBooking.WebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T14:50:56.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\KTPM-CTK44\\BaiNhom\\BusBooking\\BusBooking.WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BusBooking.WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\KTPM-CTK44\\BaiNhom\\BusBooking\\BusBooking.WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BusBooking.WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T14:47:55.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\KTPM-CTK44\\BaiNhom\\BusBooking\\BusBooking.WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "BusBooking.WebApp\\Program.cs",
+              "ToolTip": "E:\\KTPM-CTK44\\BaiNhom\\BusBooking\\BusBooking.WebApp\\Program.cs",
+              "RelativeToolTip": "BusBooking.WebApp\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T14:44:52.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\KTPM-CTK44\\BaiNhom\\BusBooking\\BusBooking.WebApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BusBooking.WebApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\KTPM-CTK44\\BaiNhom\\BusBooking\\BusBooking.WebApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BusBooking.WebApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T14:51:35.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountControllerTests.cs",
+              "DocumentMoniker": "E:\\KTPM-CTK44\\BaiNhom\\BusBooking\\BusBooking.Tests\\AccountControllerTests.cs",
+              "RelativeDocumentMoniker": "BusBooking.Tests\\AccountControllerTests.cs",
+              "ToolTip": "E:\\KTPM-CTK44\\BaiNhom\\BusBooking\\BusBooking.Tests\\AccountControllerTests.cs",
+              "RelativeToolTip": "BusBooking.Tests\\AccountControllerTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T14:26:28.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentControllerTests.cs",
+              "DocumentMoniker": "E:\\KTPM-CTK44\\BaiNhom\\BusBooking\\BusBooking.Tests\\PaymentControllerTests.cs",
+              "RelativeDocumentMoniker": "BusBooking.Tests\\PaymentControllerTests.cs",
+              "ToolTip": "E:\\KTPM-CTK44\\BaiNhom\\BusBooking\\BusBooking.Tests\\PaymentControllerTests.cs",
+              "RelativeToolTip": "BusBooking.Tests\\PaymentControllerTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T10:40:11.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScheduleControllerTests.cs",
+              "DocumentMoniker": "E:\\KTPM-CTK44\\BaiNhom\\BusBooking\\BusBooking.Tests\\ScheduleControllerTests.cs",
+              "RelativeDocumentMoniker": "BusBooking.Tests\\ScheduleControllerTests.cs",
+              "ToolTip": "E:\\KTPM-CTK44\\BaiNhom\\BusBooking\\BusBooking.Tests\\ScheduleControllerTests.cs",
+              "RelativeToolTip": "BusBooking.Tests\\ScheduleControllerTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T10:40:10.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FakeTicketService.cs",
+              "DocumentMoniker": "E:\\KTPM-CTK44\\BaiNhom\\BusBooking\\BusBooking.Services\\Fake\\FakeTicketService.cs",
+              "RelativeDocumentMoniker": "BusBooking.Services\\Fake\\FakeTicketService.cs",
+              "ToolTip": "E:\\KTPM-CTK44\\BaiNhom\\BusBooking\\BusBooking.Services\\Fake\\FakeTicketService.cs",
+              "RelativeToolTip": "BusBooking.Services\\Fake\\FakeTicketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T10:34:10.9Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

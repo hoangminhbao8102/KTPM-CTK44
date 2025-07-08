@@ -1,0 +1,18 @@
+﻿body {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+footer {
+    border-top: 1px solid #ddd;
+}
+
+table {
+    width: 100%;
+}
+
+    table th, table td {
+        padding: 8px;
+        text-align: left;
+        vertical-align: middle;
+    }
